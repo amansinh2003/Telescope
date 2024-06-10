@@ -1,0 +1,1 @@
+These arduino IDE codes are used so as to control the direction of motion for telescope. We simply need to upload it to NodeMCU (ESP8266) and connect the stepper, NodeMCU, stepper dribver circuits to make a functional telescope.
